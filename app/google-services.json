@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "610604389051",
+    "project_id": "taskrealtimefirebase",
+    "storage_bucket": "taskrealtimefirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610604389051:android:14906c5cd0c2fb6337cf9e",
+        "android_client_info": {
+          "package_name": "com.test.taskrealtimefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610604389051-l738q2ekglg17gv4515rger0c5p7tsnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_poxmxc8zaytLxKOT9n-QWSqt__VzHZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610604389051-l738q2ekglg17gv4515rger0c5p7tsnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
